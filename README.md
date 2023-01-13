@@ -1,2 +1,2 @@
-# DataScience2023-1
-This is my Repo about Data Science Project which is the first one in 2023
+# Tokopedia Data Science Project 2023
+Coded by Muhammad Hurricane. This is repo about doing Data Science on data that is brougth from Tokopedia Search.
